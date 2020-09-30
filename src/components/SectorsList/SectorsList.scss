@@ -1,0 +1,30 @@
+.sectors{
+  padding: 0 50px;
+
+  &-title{
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 42px;
+  }
+
+  &-subtitle{
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    color: #FFFFFF;
+  }
+
+  &-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    &-item {
+      width: calc((100% - 3) - 70px);
+      margin-bottom: 30px;
+    }
+  }
+}
