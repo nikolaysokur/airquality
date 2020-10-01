@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/airquality/static/css/main.13cfc33e.chunk.css",
+    "main.css": "/airquality/static/css/main.a1909f51.chunk.css",
     "main.js": "/airquality/static/js/main.ce5eae44.chunk.js",
     "main.js.map": "/airquality/static/js/main.ce5eae44.chunk.js.map",
     "runtime-main.js": "/airquality/static/js/runtime-main.0f09e563.js",
@@ -9,10 +9,10 @@
     "static/js/2.a8513620.chunk.js": "/airquality/static/js/2.a8513620.chunk.js",
     "static/js/2.a8513620.chunk.js.map": "/airquality/static/js/2.a8513620.chunk.js.map",
     "index.html": "/airquality/index.html",
-    "precache-manifest.99d07ef95b803fa531b5523b336ddf6b.js": "/airquality/precache-manifest.99d07ef95b803fa531b5523b336ddf6b.js",
+    "precache-manifest.08321eb4cf845bc4a13d49f5fe0d1c62.js": "/airquality/precache-manifest.08321eb4cf845bc4a13d49f5fe0d1c62.js",
     "service-worker.js": "/airquality/service-worker.js",
     "static/css/2.e0686c58.chunk.css.map": "/airquality/static/css/2.e0686c58.chunk.css.map",
-    "static/css/main.13cfc33e.chunk.css.map": "/airquality/static/css/main.13cfc33e.chunk.css.map",
+    "static/css/main.a1909f51.chunk.css.map": "/airquality/static/css/main.a1909f51.chunk.css.map",
     "static/js/2.a8513620.chunk.js.LICENSE.txt": "/airquality/static/js/2.a8513620.chunk.js.LICENSE.txt",
     "static/media/GC-logo.svg": "/airquality/static/media/GC-logo.0662d9de.svg",
     "static/media/ITN-logo.svg": "/airquality/static/media/ITN-logo.2f311a05.svg",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.0f09e563.js",
     "static/css/2.e0686c58.chunk.css",
     "static/js/2.a8513620.chunk.js",
-    "static/css/main.13cfc33e.chunk.css",
+    "static/css/main.a1909f51.chunk.css",
     "static/js/main.ce5eae44.chunk.js"
   ]
 }
